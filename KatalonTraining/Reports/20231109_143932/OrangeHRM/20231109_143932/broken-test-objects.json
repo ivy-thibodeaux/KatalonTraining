@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-te_cf0fd1",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div[2]/div/div/div/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/i",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231109_143932/OrangeHRM/20231109_143932/Object Repository/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-te_cf0fd1_position.png"
+    }
+  ]
+}

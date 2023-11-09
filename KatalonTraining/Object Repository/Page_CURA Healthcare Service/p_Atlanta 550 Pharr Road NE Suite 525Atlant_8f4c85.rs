@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85</name>
+   <tag></tag>
+   <elementGuidId>46874074-b23d-450b-80c1-ef5d7c172b94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4ef236c3-d78f-4788-9a78-b86d8bfa3107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atlanta 550 Pharr Road NE Suite 525Atlanta, GA 30305</value>
+      <webElementGuid>d9a3f4cc-14c4-4529-8c14-33629e6d78b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/p[1]</value>
+      <webElementGuid>8bebae54-9e17-4e14-8dc1-6c7268532996</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>53db31d2-6af6-44ce-a343-f98fbbd7c13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Atlanta 550 Pharr Road NE Suite 525Atlanta, GA 30305' or . = 'Atlanta 550 Pharr Road NE Suite 525Atlanta, GA 30305')]</value>
+      <webElementGuid>ec8d0245-53cd-456c-aef5-6bf7cf504c10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

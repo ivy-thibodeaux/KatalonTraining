@@ -6,12 +6,12 @@
    <elementGuidId>ee142094-8ac4-46ed-8857-1aac6d54d4be</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li:nth-of-type(3) > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>91432658-b640-4c18-b7c3-84bb97543b6f</webElementGuid>
+      <webElementGuid>e3b35266-7a56-40f9-b473-56afb769e3dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>profile.php#login</value>
-      <webElementGuid>45aed93a-c939-4e1e-a0fa-23bc13aee938</webElementGuid>
+      <webElementGuid>12bc80cf-39ae-4cbd-a793-b15b77bc6112</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>$('#menu-close').click();</value>
-      <webElementGuid>e9c212f4-21f8-4234-9899-ab68046482fc</webElementGuid>
+      <webElementGuid>13327e91-7603-44aa-b5f4-18d60e308dc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>7798d2d7-5592-492b-b057-1850fdea8cbf</webElementGuid>
+      <webElementGuid>9d269a53-5156-45c7-941f-9eb82e93382a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[3]/a[1]</value>
-      <webElementGuid>8961635d-c548-44d7-9a56-2c5f84d7016e</webElementGuid>
+      <webElementGuid>6aaa9419-4809-4fa8-a9ce-aca8e850c96f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[3]</value>
-      <webElementGuid>684b97e8-0a30-433b-8cc1-fccc5c72c8c7</webElementGuid>
+      <webElementGuid>b7223127-84d9-43b8-89ac-327baea281bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='sidebar-wrapper']/ul/li[3]/a</value>
-      <webElementGuid>36782b67-5f19-45d4-801a-e323aa75716f</webElementGuid>
+      <webElementGuid>72139191-d695-4768-a838-b0020f2fdd1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>8769aaa4-4426-4e40-9f4c-1902913f7665</webElementGuid>
+      <webElementGuid>af99fd06-aa96-4011-afaa-1b93f08f76ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'profile.php#login')]</value>
-      <webElementGuid>7b68d9fe-b771-4feb-bb53-274c93970434</webElementGuid>
+      <webElementGuid>8a47d2b2-9492-4fb9-a347-2dcd6de1f653</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>32ceba93-6b50-4327-b411-b3bd2c94861f</webElementGuid>
+      <webElementGuid>3a89faa5-3889-4223-99ca-2ea8db4f63ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'profile.php#login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>1d2ac6e2-b56d-4aeb-8b84-74f7899cdcfc</webElementGuid>
+      <webElementGuid>6215cfab-1693-49fc-9227-54586c869553</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

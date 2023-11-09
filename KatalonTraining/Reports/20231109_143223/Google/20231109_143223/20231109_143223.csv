@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Google,Chrome 118.0.0.0,,,2023-11-09 14:32:28,2023-11-09 14:40:17,7m - 49.057s,FAILED
+,,,,,,,
+Test Cases/Google-Find-Dog-Sounds,Chrome 118.0.0.0,,,2023-11-09 14:34:24,2023-11-09 14:35:02,37.588s,FAILED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-09 14:34:24,2023-11-09 14:34:27,3.360s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""dog breeds"")",Chrome 118.0.0.0,,,2023-11-09 14:34:27,2023-11-09 14:35:02,34.210s,FAILED
+,,,,,,,
+Test Cases/Google-Find-Funny-Dog-Videos,Chrome 118.0.0.0,,,2023-11-09 14:36:55,2023-11-09 14:37:33,37.857s,FAILED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-09 14:36:55,2023-11-09 14:36:59,3.642s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""funny dog videos"")",Chrome 118.0.0.0,,,2023-11-09 14:36:59,2023-11-09 14:37:33,34.192s,FAILED
+,,,,,,,
+Test Cases/Google-Search-For-Dog,Chrome 118.0.0.0,,,2023-11-09 14:37:33,2023-11-09 14:37:44,10.953s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-09 14:37:33,2023-11-09 14:37:37,3.476s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 118.0.0.0,,,2023-11-09 14:37:37,2023-11-09 14:37:39,2.053s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""dog breeds"")",Chrome 118.0.0.0,,,2023-11-09 14:37:39,2023-11-09 14:37:39,0.677s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/input_btnK""))",Chrome 118.0.0.0,,,2023-11-09 14:37:39,2023-11-09 14:37:40,0.956s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_dog breeds - Google Search/div_Dog""), ""Dog"")",Chrome 118.0.0.0,,,2023-11-09 14:37:40,2023-11-09 14:37:44,3.688s,PASSED
+,,,,,,,
+Test Cases/Google-Shop-For-Dogs,Chrome 118.0.0.0,,,2023-11-09 14:39:38,2023-11-09 14:40:17,38.997s,FAILED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-09 14:39:38,2023-11-09 14:39:43,4.662s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""shop for dogs"")",Chrome 118.0.0.0,,,2023-11-09 14:39:43,2023-11-09 14:40:17,34.309s,FAILED
