@@ -6,12 +6,12 @@
    <elementGuidId>5a72ad40-eba0-453d-8b11-5302f0b53988</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.--toggle > button.oxd-icon-button</value>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <key>CSS</key>
+         <value>button.oxd-icon-button.oxd-main-menu-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a1f9f037-e274-4abf-a4e3-decb487d12ae</webElementGuid>
+      <webElementGuid>242617c0-8475-4f4a-a182-9101a4bc983b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-icon-button</value>
-      <webElementGuid>9d958a46-1b4b-4dbf-8951-ad8e5539e07f</webElementGuid>
+      <value>oxd-icon-button oxd-main-menu-button</value>
+      <webElementGuid>a128e06f-087c-4e62-854f-34d4fb425990</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,18 +38,58 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c528a9cc-dca3-4038-9b0f-7f8332a997af</webElementGuid>
+      <webElementGuid>fcba3991-9880-4abe-825f-6155409f56c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-header&quot;]/div[@class=&quot;oxd-table-filter-header-options&quot;]/div[@class=&quot;--toggle&quot;]/button[@class=&quot;oxd-icon-button&quot;]</value>
-      <webElementGuid>b5d45325-bfaf-451b-831f-59143635c6fe</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel toggled&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/div[@class=&quot;oxd-main-menu --fixed&quot;]/div[@class=&quot;oxd-main-menu-search&quot;]/button[@class=&quot;oxd-icon-button oxd-main-menu-button&quot;]</value>
+      <webElementGuid>c9bc2eb7-8797-4c33-bfbd-cad3455228d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>40c58d23-cd5c-43c6-b478-e7f2151bcd25</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>b1d9a272-0f55-47f9-9a05-30b0113a3b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/div/div/button</value>
+      <webElementGuid>f2543247-e581-475c-8483-2905057cbaaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>4d70bf5e-5921-4c4f-af6d-52f4e95ea6a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>6d2373b2-5f08-4872-9a7d-59f48d58835d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -71,13 +111,5 @@
       <type>Main</type>
       <value>//div[3]/button</value>
       <webElementGuid>49ead512-3b86-4a2c-92a5-2402c8bc6dc4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button']</value>
-      <webElementGuid>114ed579-5d63-4c18-91b8-7e3d2d806c0a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

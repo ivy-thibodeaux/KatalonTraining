@@ -6,12 +6,12 @@
    <elementGuidId>b7531716-bc12-48d9-bcd7-7eba8e347a97</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/i</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/div/div[2]/div/div/button[2]/i</value>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-fullscreen-exit.oxd-icon-button__icon.--toggable-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,26 +22,122 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>0fb27e51-a5f7-4248-a99a-13f5ba856cb5</webElementGuid>
+      <webElementGuid>6454eea6-f161-4e7f-a4f1-e18e52055979</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-icon bi-pencil-fill</value>
-      <webElementGuid>f3a5cf3c-2e7a-443c-a066-098bb1e7499e</webElementGuid>
+      <value>oxd-icon bi-fullscreen-exit oxd-icon-button__icon --toggable-icon</value>
+      <webElementGuid>d1a0f0ba-e28a-495c-8f9e-eb9a178dde4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body oxd-card-table-body&quot;]/div[@class=&quot;oxd-table-card --mobile&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;card-center&quot;]/div[@class=&quot;card-header-slot&quot;]/div[@class=&quot;card-item card-header-slot-content --right&quot;]/div[@class=&quot;oxd-table-cell&quot;]/div[@class=&quot;oxd-table-cell-actions&quot;]/button[@class=&quot;oxd-icon-button oxd-table-cell-action-space&quot;]/i[@class=&quot;oxd-icon bi-pencil-fill&quot;]</value>
-      <webElementGuid>277b079b-2b12-4dce-9662-3f4898d06ce4</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;oxd-report-table&quot;]/div[@class=&quot;oxd-report-table-header&quot;]/div[@class=&quot;oxd-report-table-header--toggable&quot;]/i[@class=&quot;oxd-icon bi-fullscreen-exit oxd-icon-button__icon --toggable-icon&quot;]</value>
+      <webElementGuid>b56a39f7-1bb1-49e0-806d-f39297512c30</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/i</value>
+      <webElementGuid>70a61acb-8786-405a-8e52-9b55edde6c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/i</value>
+      <webElementGuid>7732a799-1652-4afd-a658-55f2d60cd9dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div/div[3]/div/div/div/div[2]/div/div/button[3]/i</value>
+      <webElementGuid>5cd6d35a-309a-414a-a9f6-4c75b3f83b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div/button[3]/i</value>
+      <webElementGuid>3a705edc-aba0-4771-a7c7-102346e51579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Buzz Newsfeed']/div/div[2]/button[3]/i</value>
+      <webElementGuid>2308b77a-cf75-4dac-b7a7-84cd6180bcf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/i</value>
+      <webElementGuid>b410f9cc-17f2-4c26-8662-68730e3b7d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Buzz Newsfeed']/div/div[2]/button[2]/i</value>
+      <webElementGuid>1c0e434e-b7a6-4115-ae81-ea150d006104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>d36dedd6-dd6e-4a0d-97c6-cd2dcf929fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div/div/div/div/div[2]/div/div/div[2]/i</value>
+      <webElementGuid>c3dc6a77-7379-4d94-a978-fe6cfcff6397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>43480a61-6ee3-4f0f-92ea-3fb68eeca40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/div/div/button/i</value>
+      <webElementGuid>e5bee6bf-6179-4181-8d95-8f9761f420ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>d28474e5-ca67-4a98-afe2-20968260c1e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -63,13 +159,5 @@
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div/div/div[2]/div/div/div[2]/i</value>
       <webElementGuid>e9248bd6-e12f-4e0e-8f2f-bdfa99b82ef0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/i</value>
-      <webElementGuid>1faa9d8e-cf0e-49d4-872f-707d68fce484</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

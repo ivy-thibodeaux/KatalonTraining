@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Leave List</name>
+   <tag></tag>
+   <elementGuidId>0d69dff8-d305-41af-806f-8ffc4a30cc18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.oxd-text.oxd-text--h5.oxd-table-filter-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>2ccdaeea-c597-45c0-a9f6-c17f13144d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--h5 oxd-table-filter-title</value>
+      <webElementGuid>9e02e50a-0987-42d3-a43a-f283a1b513e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave List</value>
+      <webElementGuid>e864a13f-aa4e-479d-a879-113c56a59354</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-header&quot;]/div[@class=&quot;oxd-table-filter-header-title&quot;]/h5[@class=&quot;oxd-text oxd-text--h5 oxd-table-filter-title&quot;]</value>
+      <webElementGuid>ebfae50e-a0c8-4715-bca4-030a906b4e10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/h5</value>
+      <webElementGuid>96efd492-a538-40b9-b7e0-763eca83bc39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>03296068-f400-4fad-ac82-aa59239673be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Leave List' or . = 'Leave List')]</value>
+      <webElementGuid>916f5c1b-881b-4cb5-8b58-5f47e4dd83e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

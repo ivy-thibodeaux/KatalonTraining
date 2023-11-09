@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Buzz Newsfeed</name>
+   <tag></tag>
+   <elementGuidId>e481d983-8ad9-41bb-bc4a-c8881de68069</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.oxd-tab-segment.oxd-tab-segment--active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5beaaf8a-852b-4eef-a0ac-530e1b671c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-tab-segment oxd-tab-segment--active</value>
+      <webElementGuid>1e2bf7c9-fdcc-4df9-93e9-8f445764db29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#buzz-newsfeed</value>
+      <webElementGuid>df012355-16dd-4bda-abd6-f869edb7633b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buzz Newsfeed</value>
+      <webElementGuid>38027e9b-96c2-4bcf-858b-571ae603b61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-tab&quot;]/div[@class=&quot;oxd-tab-bar&quot;]/a[@class=&quot;oxd-tab-segment oxd-tab-segment--active&quot;]</value>
+      <webElementGuid>e1e8eb9f-ee4b-4c6f-8521-c8b304178b12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/a</value>
+      <webElementGuid>5f40ae0a-c1a4-4ef9-bba7-1adbd7c32b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Buzz Newsfeed')]</value>
+      <webElementGuid>1d9ac286-a330-47a0-be15-ec51b8a8462d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#buzz-newsfeed')]</value>
+      <webElementGuid>5d03b33d-3a0e-4e1d-8630-a49023834f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>7c526ffd-4dd1-4b4c-a242-56b4c00bc28e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#buzz-newsfeed' and (text() = 'Buzz Newsfeed' or . = 'Buzz Newsfeed')]</value>
+      <webElementGuid>8c9a91a2-c71a-427d-b239-67bd384cc4c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

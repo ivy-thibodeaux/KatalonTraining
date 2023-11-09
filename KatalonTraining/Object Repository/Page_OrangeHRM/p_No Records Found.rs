@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_No Records Found</name>
+   <tag></tag>
+   <elementGuidId>48736d24-d875-4d53-b23b-d734a35456f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ec8b4fa3-6807-408f-9c78-839e8a9d8b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text</value>
+      <webElementGuid>487c9244-a509-4af1-9fbb-ab7d2adb3e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Records Found</value>
+      <webElementGuid>144727c6-0b61-4b9b-a2bf-e1c8905766b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oxd-toaster_1&quot;)/div[@class=&quot;oxd-toast oxd-toast--info oxd-toast-container--toast&quot;]/div[@class=&quot;oxd-toast-start&quot;]/div[@class=&quot;oxd-toast-content oxd-toast-content--info&quot;]/p[@class=&quot;oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text&quot;]</value>
+      <webElementGuid>efd8f9f6-e79b-431d-ae8a-b544f2481c4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p[2]</value>
+      <webElementGuid>d5e3e4f2-f262-4f31-8541-1e1a1786ace7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[2]</value>
+      <webElementGuid>fd604d60-3928-4d42-acc8-691d2224c2b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'No Records Found' or . = 'No Records Found')]</value>
+      <webElementGuid>b91711c4-14d0-46cd-806e-9e639bbb3207</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

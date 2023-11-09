@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Employee Reports</name>
+   <tag></tag>
+   <elementGuidId>8a748a4c-733a-4b46-9ba9-a73b2e3d551d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.oxd-text.oxd-text--h5.oxd-table-filter-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>d5b771f3-7410-4242-bbe2-ad75607be2e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--h5 oxd-table-filter-title</value>
+      <webElementGuid>71e075d9-80c3-452f-b46f-f2e2d18aab68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee Reports</value>
+      <webElementGuid>a0449368-95ed-40ad-a5d7-509437a1c42e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-header&quot;]/div[@class=&quot;oxd-table-filter-header-title&quot;]/h5[@class=&quot;oxd-text oxd-text--h5 oxd-table-filter-title&quot;]</value>
+      <webElementGuid>e19fe6de-f140-46a6-8c3f-a26f7cd81016</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/h5</value>
+      <webElementGuid>08738938-6b3b-4958-9ebf-b1ebbfad26b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>94ce5d2f-e408-437b-bf40-11c9c81f3a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Employee Reports' or . = 'Employee Reports')]</value>
+      <webElementGuid>e4ac0383-213b-4fa5-ae1c-5259b5a69642</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

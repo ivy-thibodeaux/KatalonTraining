@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Most Commented Posts</name>
+   <tag></tag>
+   <elementGuidId>3ea650c4-4a11-454d-8f01-4c42d87108f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.oxd-button.oxd-button--medium.oxd-button--label-warn.orangehrm-post-filters-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9dded5f9-8f04-423d-90df-dad7773e4c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>19566292-235a-4f15-9058-e20dc0259ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-button oxd-button--medium oxd-button--label-warn orangehrm-post-filters-button</value>
+      <webElementGuid>3c3f17f6-f635-491a-8d14-508ddf2638ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Most Commented Posts </value>
+      <webElementGuid>43e29701-8a4d-48a2-9d9b-8d3aa394cea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Buzz Newsfeed&quot;)/div[@class=&quot;orangehrm-buzz-newsfeed&quot;]/div[@class=&quot;orangehrm-post-filters&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--label-warn orangehrm-post-filters-button&quot;]</value>
+      <webElementGuid>ff063945-36a8-4254-9cb0-6f42ffa03382</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>c3225443-3d23-4fcc-8876-0ab3a83b21a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Buzz Newsfeed']/div/div[2]/button[3]</value>
+      <webElementGuid>88d56d03-96d2-4621-a71b-dab7c1bd7bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>d4042286-0b56-4480-8afc-2bff15700230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Most Commented Posts ' or . = ' Most Commented Posts ')]</value>
+      <webElementGuid>364ddc1d-0c7e-47ce-81b2-ec63a5ef3971</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

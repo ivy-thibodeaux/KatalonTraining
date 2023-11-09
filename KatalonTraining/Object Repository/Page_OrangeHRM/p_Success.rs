@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Success</name>
+   <tag></tag>
+   <elementGuidId>a57c749a-cf5e-499e-ba68-7c756b275a68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p.oxd-text--toast-title.oxd-toast-content-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cb3880bd-6d92-46f6-b76e-9692d9994ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p oxd-text--toast-title oxd-toast-content-text</value>
+      <webElementGuid>0713f6d8-b33b-4184-b36a-9f14f22bcdfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Success</value>
+      <webElementGuid>0eb811c0-82bf-4231-aceb-6a3ca524fbc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oxd-toaster_1&quot;)/div[@class=&quot;oxd-toast oxd-toast--success oxd-toast-container--toast&quot;]/div[@class=&quot;oxd-toast-start&quot;]/div[@class=&quot;oxd-toast-content oxd-toast-content--success&quot;]/p[@class=&quot;oxd-text oxd-text--p oxd-text--toast-title oxd-toast-content-text&quot;]</value>
+      <webElementGuid>9c131fd1-8c61-4daa-b4a4-48ebbcfd7323</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p</value>
+      <webElementGuid>67a29913-ffed-4ec7-ab8f-0a93c06c889a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>ce4ff7c2-e9b2-4169-bf73-e69fd285c924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Success' or . = 'Success')]</value>
+      <webElementGuid>5ad32d63-342e-488d-99e3-6e6c86e8a36a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

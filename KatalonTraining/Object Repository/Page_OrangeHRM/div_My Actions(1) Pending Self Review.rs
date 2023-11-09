@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My Actions(1) Pending Self Review</name>
+   <tag></tag>
+   <elementGuidId>b2c35e18-dba8-44e0-9268-9ca3c1594467</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b77c3755-7e6c-47c3-953a-9bf6270159f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget</value>
+      <webElementGuid>1b336c92-1b4f-406e-8ee5-e74363aa1d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Actions(1) Pending Self Review</value>
+      <webElementGuid>35f7ab54-7cde-4c94-9981-b027011f9acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]</value>
+      <webElementGuid>81f854d1-9dd8-4d6c-867a-ec8dbc5b6d02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>bb14f939-67bf-4eb7-943a-9e0e683de8f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>350e398e-8ab3-42de-9023-57f0e39566c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'My Actions(1) Pending Self Review' or . = 'My Actions(1) Pending Self Review')]</value>
+      <webElementGuid>4ad2f859-1df9-4144-be53-4fba38f17339</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
