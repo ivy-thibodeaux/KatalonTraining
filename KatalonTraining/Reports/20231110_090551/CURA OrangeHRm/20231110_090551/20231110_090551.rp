@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportCollectionEntity>
+   <description></description>
+   <name>20231110_090551</name>
+   <tag></tag>
+   <displayName>20231110_090551</displayName>
+   <reportItemDescriptions>
+      <ReportItemDescription>
+         <reportLocation>Reports/20231110_090551/CURA Healthcare Service/20231110_090552</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome (headless)</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/20231110_090551/OrangeHRM/20231110_090554</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome (headless)</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+   </reportItemDescriptions>
+   <testSuiteCollectionId>Test Suites/CURA OrangeHRm</testSuiteCollectionId>
+</ReportCollectionEntity>

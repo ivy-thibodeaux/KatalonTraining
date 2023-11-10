@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-te_cf0fd1",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div[2]/div/div/div/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div[2]/div[3]/div/div/div[3]/div/div/div/div[2]/div/div/button[3]/i",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231110_083129/OrangeHRM/20231110_083129/Object Repository/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-te_cf0fd1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-te_cf0fd1",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div[2]/div/div/div/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/i",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231110_083129/OrangeHRM/20231110_083129/Object Repository/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-te_cf0fd1_position.png"
+    }
+  ]
+}
